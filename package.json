@@ -1,6 +1,6 @@
 {
   "name": "simple-jsx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple jsx xml processor.",
   "main": "./lib/index.js",
   "scripts": {
